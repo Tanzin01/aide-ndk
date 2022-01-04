@@ -1,11 +1,37 @@
-# aide-ndk
+# aide-ndk+sdk
+
 How to install ndk in aide ide
 
+{{{ Official way
 
-<del>Check this link https://raincitygaming.blogspot.com/2021/04/how-to-install-ndk-c-in-aide.html?m=1</del>
+1. If you have already installed aide, uninstall it.
+2.If you are on Android 10 or higher download the binary sdk/ndk apk for Android 10, else the normal one.
+3.Now install aide apk.
+
+ }}}
 
 
 
+
+ {{{}}} Unofficial {{{}}}
+Mod/modified version is love!- Hey, I certainly support the owner/developer :), also mod dev as well.
+
+<del>Check this link https://raincitygaming.blogspot.com/2021/04/how-to-install-ndk-c-in-aide.html?m=1</del>suspicious
+
+At your own risk- https://leaks.work/faq/question.php?id=61
+
+
+
+
+
+
+
+
+
+
+
+
+[Don't bother reader below and save your time]
 *Download the file from official github repository
 
 [To install SDK in your device follow this step below.
